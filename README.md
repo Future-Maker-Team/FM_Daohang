@@ -8,12 +8,13 @@ Future_Maker_Team的个人导航。
 
 1.  拥有一个可以搭建环境（LNMP或其他）的服务器，可使用腾讯云或其他服务商服务器；
 2.  使用Apache或Nginx配置网站根目录，以便用户访问您的站点；
-3.  使用`git clone https://gitee.com/future-maker-gitee/fm_daohang.git`命令一键git到您的网站根目录下；
+3.  使用`git clone https://gitee.com/Future-Maker-Team/FM_Daohang.git`命令一键git到您的网站根目录下；
 
     Tips：若您的 服务器/主机 没有自动安装`git`命令，请尝试：
     * Windows 用户请去 https://git-scm.com/download 下载Windows客户端版本的Git，若您不熟悉安装过程，请一路“确定”；
     * Linux Red Hat系用户（包含Redhat Enterprise Linux、CentOS等系统） 请使用`yum install git`安装Git；
     * Linux Debian系用户（包含Debian、Ubuntu等系统） 请使用`apt install git`安装Git。
+    * 若您的 服务器/主机无法连接到Github，请使用`git clone https://gitee.com/future-maker-gitee/fm_daohang.git`使用 开源中国 打造的 **Gitee** 国内仓库！
 4.  配置好您的SSL证书等网站配置；
 5.  Enjoy it！
 
@@ -27,7 +28,7 @@ Future_Maker_Team的个人导航。
 
 1.  超级贡献者/队长 Future_Maker
 2.  学啥都快的帅气小伙 JHR
-3.  网站设计二牛 HTQ
+3.  网站设计（摸鱼大师）二牛 HTQ
 
 #### 特技
 
